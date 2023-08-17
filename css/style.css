@@ -89,6 +89,7 @@ main {
 }
 
 .profile-card__name {
+  display: inline;
   font-size: var(--fs-1);
   font-weight: var(--fw-bold);
   color: var(--c-very-dark-desaturated-blue);
